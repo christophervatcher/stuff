@@ -7,6 +7,7 @@
 - [ ] Shirts, pants, undergarmets, socks
 - [ ] Jacket/Coat
 - [ ] Comb
+- [ ] Toothbrush
 - [ ] Razor, Razor Blades
 - [ ] Portable humidifier
 - [ ] Travel-sized Soaps
