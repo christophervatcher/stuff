@@ -12,6 +12,12 @@
 - [ ] Travel-sized Soaps
 - [ ] Gifts
 
+## Travel Medications
+- [ ] Headache medicine
+- [ ] Allergy medicine
+- [ ] Zinc pills
+- [ ] Nasal spray
+
 ## Travel Entertainment
 - [ ] Handheld game consoles and games
 
